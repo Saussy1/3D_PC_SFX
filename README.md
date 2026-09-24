@@ -2,6 +2,7 @@
  
 <!-- TODO: Add a hero photo of the finished case here, e.g. ![Finished case](images/case-finished.jpg) -->
 <!-- TODO: Add the SolidWorks render and a shot of the open case during assembly -->
+![](docs/mATX16_render.png)
  
 ## Introduction
  
