@@ -1,7 +1,6 @@
 # 3D Printed Micro ATX PC Case (SFX PSU)
  
 <!-- TODO: Add a hero photo of the finished case here, e.g. ![Finished case](images/case-finished.jpg) -->
-<!-- TODO: Add the SolidWorks render and a shot of the open case during assembly -->
 ![](docs/mATX16_render.png)
  
 ## Introduction
@@ -51,16 +50,11 @@ PC components are thermal components, so PETG is recommended for this build. It 
 
 ## Roadmap
  
-- [ ] Add photos to this README
 - [ ] Create a BOM for necessary hardware
 - [ ] Add STEP exports and printable files (STL/3MF) to the repository
 ### Finish the CAD
  
-- [ ] Test print the PSU cover
-- [ ] Address the heat-set insert / PSU impediment
-- [ ] Make the back panel thinner (GPU bracket is a tight fit)
-- [ ] Break the front panel into smaller pieces (it was a PAIN to print)
-- [ ] Fix the file organization and naming convention
+- [ ] Test print all components (67% complete)
 ### Design status screens
  
 - [ ] Decide what should actually be displayed
